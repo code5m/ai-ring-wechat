@@ -1,0 +1,21 @@
+{
+  "issue": "VOL.02",
+  "date": "2026-10-22",
+  "title": "A股无情，Tibo有情：亏的钱补不回来，GPT额度给你补满！",
+  "status": "ready_for_wechat_preview",
+  "reset_status": "announced_not_confirmed",
+  "fact_check_at": "2026-10-22T16:17:00+08:00",
+  "files": {
+    "body": "article.md",
+    "local_publish_package": "AI响铃_VOL02_公众号发布包.zip"
+  },
+  "original_posts": [
+    "https://x.com/thsottiaux/status/2113162277688070445",
+    "https://x.com/thsottiaux/status/2113162413008884099"
+  ],
+  "publication": {
+    "url": null,
+    "published_at": null
+  },
+  "notes": "正式发布前重新确认 Reset 状态；本地 HTML 及 PNG 图片在本次对话的下载包中，尚未上传 GitHub 仓库。"
+}
